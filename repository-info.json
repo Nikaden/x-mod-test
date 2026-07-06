@@ -1,0 +1,15 @@
+{
+"repository": "Game Mod Files",
+"version": "1.0.0",
+"status": "production",
+"storage": "github",
+"last_update": "2026-07-07",
+"file_structure": "game/mod/version",
+"downloads": true,
+"compression": [
+"zip",
+"rar",
+"7z"
+],
+"maintainer": "Site Administration"
+}
